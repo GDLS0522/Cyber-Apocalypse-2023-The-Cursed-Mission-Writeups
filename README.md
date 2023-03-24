@@ -13,7 +13,8 @@ This repository contains writeups for various topics.
 | Reverse Engineering | Writeups related to reverse engineering of software and hardware  systems. |
 | Hardware | Writeups related to hardware security and algorithms. |
 | Pwning | Writeups related to exploit development and binary exploitation. |
+| Blockchain | Writeups related to blockchain exploitation. |
 
 ## Our Achievements
 
-Our team competed in a CA 2023 CTF and ranked 40 out of 7000+ teams. We solved 59 out of 74 challenges and decided to post writeups for all of them. We hope you find our writeups helpful and informative. If you have any questions or feedback, feel free to reach out to us through Discord (ID of people's who solved a chall is given in writeups or README files).
+Our team competed in a CA 2023 CTF and ranked 40 out of 6300+ teams. We solved 59 out of 74 challenges and decided to post writeups for all of them. We hope you find our writeups helpful and informative. If you have any questions or feedback, feel free to reach out to us through Discord (ID of people's who solved a chall is given in writeups or README files).
