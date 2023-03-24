@@ -1,4 +1,4 @@
-# Gang De La Sinfonia CA 2023 Writeups
+# Gang de la Sinfonia CA 2023 Writeups
 
 This repository contains writeups for various topics.
 
