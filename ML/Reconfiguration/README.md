@@ -14,7 +14,7 @@ As Pandora set out on her quest to find the ancient alien relic, she knew that t
 ```
 
 ## Solution
-My first approach was to understand the attachments provided. i started with checking the (analysis.ows)[./analysis.ows] file which had some code. I honestly say i didn't get anything but i did figure out that it was somehow related to `Scatter Plotter` so i did a quick search on google and found a way, i got to know about `matplotlib` lib of python which can be used to plot points on a graph. 
+My first approach was to understand the attachments provided. i started with checking the [analysis.ows](./analysis.ows) file which had some code. I honestly say i didn't get anything but i did figure out that it was somehow related to `Scatter Plotter` so i did a quick search on google and found a way, i got to know about `matplotlib` lib of python which can be used to plot points on a graph. 
 
 Then i saw the (points.csv)[./points.csv] file which had the coordinates of the points, but they are in scientific format so we need to convert it to integer so `matplotlib` can do its work.
 
