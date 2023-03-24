@@ -6,7 +6,7 @@ This directory contains writeups for machine learning challenges.
 
 | Challenge Name | Solved By |
 | --- | --- |
-| Reconfiguration | Inv1s1bl3#7047 |
+| (Reconfiguration)[./Reconfiguration/README.md] | Inv1s1bl3#7047 | 
 | Mysterious Learnings | Derb#1962 |
 
 

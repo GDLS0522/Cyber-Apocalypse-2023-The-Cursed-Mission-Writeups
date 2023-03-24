@@ -52,4 +52,4 @@ HTB{sc4tter_pl0ts_4_th3_w1n}
 
 ## Contact info
 
-This writeup was solved by Om Honrao (Discord ID: Inv1s1bl3#7047). If you have any questions or feedback, feel free to reach out to me.
+This challenge was solved by Om Honrao (Discord ID: Inv1s1bl3#7047). If you have any questions or feedback, feel free to reach out to me.
