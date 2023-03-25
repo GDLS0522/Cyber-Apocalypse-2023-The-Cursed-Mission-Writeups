@@ -80,7 +80,7 @@ void box(void)
 ```
 So this just declares some variables and then uses `fwrite` to print some text further it uses `read_num` function to read input from user. If the input is not equal to 2 then it will exit the program. So we have to input 2 to continue. After that it uses `fgets` to read input from user and stores it in `local_38` variable. So we have to input some string here. It asks to enter location of library this made me think this should be something related to `Ret2Libc` attack and indeed it was! We can use `ROP` technique to leak out the Libc Base address and with the base we can find the System Address and then we can use `Ret2Libc` to spawn a shell. So lets start with `ROP` first.
 
-I wasn't sure if ASLR is on on the server so each time i ran my code made a leak. We leak out an address and subtract the offset of it from the starting of libc to get the libc base address.
+I wasn't sure if ASLR is on on the server so each time i ran my code made a leak (I used puts leak). We leak out an address and subtract the offset of it from the starting of libc to get the libc base address.
 And then we return back to box() because we don't want program to end right. Further we craft our payload and get the shell!
 ```python
 from pwn import*
